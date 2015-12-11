@@ -4,7 +4,7 @@ Team: Mamma Mia
 
 Team Member: Jin Shang (GithubID: 90947176); Yulei Wang (GithubID: yxw390); Tiannan Zhan(GithubID: tiannanz)
 
-Project name: Chinese Elder Unsatisfied
+Project name: Chinese Elders Unsatisfied?
 
 
 
