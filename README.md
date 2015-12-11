@@ -19,7 +19,7 @@ We hand in the following things:
 
 (b) Screencast URL: https://vimeo.com/148566284
 
-(c) IPython notebook: Project_Notebook_Mamma Mia.ipynb
+(c) IPython notebook: Project_Notebook_Mamma_Mia.ipynb
 
 (d) Datasets used in the iPython notebook (already added in this repo): 
 
